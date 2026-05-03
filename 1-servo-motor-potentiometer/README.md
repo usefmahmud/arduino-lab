@@ -12,4 +12,4 @@ The first project built alone with arduino :)
 
 
 #### Demo:
-  <video controls src="demo-video.mp4" title="Servo Motor Potentionmeter Demo Video" loop></video>
+  <video controls src="demo-video.mov" title="Servo Motor Potentionmeter Demo Video" loop></video>
